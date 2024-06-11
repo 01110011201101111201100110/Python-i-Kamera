@@ -1,3 +1,5 @@
 # Python-i-Kamera
 
-Kameru povežem preko direktorijuma i prepoznaje lica? :D 
+paint u pythonu, kao.
+potsto je mnogo laka detekcija lica
+
